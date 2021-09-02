@@ -1,0 +1,12 @@
+{
+    "name": "cgs/tusuploader",
+    "description": "Tus uploader",
+    "autoload": {
+        "psr-4": {
+            "Cgs\\Tusuploader\\": "src/"
+        }
+    },
+    "require": {
+        "ankitpokhrel/tus-php": "^2.1"
+    }
+}
